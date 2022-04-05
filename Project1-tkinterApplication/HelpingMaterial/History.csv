@@ -1,0 +1,19 @@
+InventoryId,current_datetime,User,issue_qty,receive_qty
+14,"March 20, 2022",1,0,5
+8,"March 20, 2022",1,0,5
+9,"March 20, 2022",admin,0,5
+9,"March 20, 2022",admin,0,5
+8,"March 20, 2022",admin,0,6
+11,"March 20, 2022",admin,0,7
+113,"March 20, 2022",admin,0,5
+5,"March 20, 2022",admin,0,5
+1,"March 20, 2022",user2,0,
+11,"March 20, 2022",user2,0,0
+9,"March 20, 2022",admin,0,5
+4,"March 20, 2022",user1,5,0
+8,"March 20, 2022",user1,36,0
+10,"March 20, 2022",user1,4,0
+5,"March 20, 2022",admin,0,5
+4,"March 20, 2022",admin,0,5
+2,"March 20, 2022",admin,0,5
+7,"March 20, 2022",admin,0,4
